@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Petrisheva_25</string>
+    <string name="plan">ПЛАНИРОВЩИК</string>
+    <string name="auto">АВТОРИЗАЦИЯ</string>
+    <string name="vxod">ВХОД</string>
+    <string name="vixod">ВЫХОД</string>
+    <string name="name">ИМЯ ПОЛЬЗОВАТЕЛЯ</string>
+    <string name="ghj">ЗАКОНЧИТЬ ОТЧЁТ</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="jbv">УБРАТЬСЯ В ДОМЕ</string>
+    <string name="hgkb">СХОДИТЬ В МАГАЗИН</string>
+    <string name="kbv">СЕГОДНЯ</string>
+    <string name="bnv">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="https_developer_android_com">https://developer.android.com</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="todo13">TODO</string>
+    <string name="pass">ПАРОЛЬ</string>
+    <string name="todo14">TODO</string>
+    <string name="todo16">TODO</string>
+</resources>
